@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffbd59&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Rafael+Candido;Eu+tenho+18+anos;E+estou+cursando+Ciências+da+Computação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CandidoRafael&bg_color=373635&color=ffbd59&line=ffbd59&point=1C1916&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CandidoRafael&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
