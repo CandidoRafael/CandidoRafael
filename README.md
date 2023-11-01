@@ -20,8 +20,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor">
   <img align="center" alt="Node.JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
 </div>
 </div>
 
