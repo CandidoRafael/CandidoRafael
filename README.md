@@ -22,6 +22,7 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
   <img align="center" alt="Node.JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
+  <img align="center" alt="Express" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 </div>
 </div>
 
