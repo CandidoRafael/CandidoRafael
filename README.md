@@ -23,6 +23,7 @@
   <img align="center" alt="Node.JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Express" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">     
+  <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">     
   <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 </div>
 </div>
